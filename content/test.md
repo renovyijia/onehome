@@ -1,0 +1,3 @@
+Test:
+
+{{< gallery match="images/*" >}}
