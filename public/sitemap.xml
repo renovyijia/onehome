@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>onehomerenovation.ca/contact/</loc>
     <lastmod>2025-11-24T17:18:38-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>onehomerenovation.ca/</loc>
     <lastmod>2025-11-24T17:18:38-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/services/</loc>
+    <loc>onehomerenovation.ca/services/</loc>
     <lastmod>2025-11-24T17:18:13-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/test/</loc>
+    <loc>onehomerenovation.ca/test/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/</loc>
+    <loc>onehomerenovation.ca/authors/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>onehomerenovation.ca/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/</loc>
+    <loc>onehomerenovation.ca/projects/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>onehomerenovation.ca/tags/</loc>
   </url>
 </urlset>
