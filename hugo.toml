@@ -1,4 +1,4 @@
-baseurl = "onehomerenovation.com" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "onehomerenovation.ca" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "One Home Renovation 亿居工程"
 theme = ["hugo-shortcode-gallery", "hugo-universal-theme"]
 languageCode = "en-us"
